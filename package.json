@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-prefer-import",
+  "version": "0.0.1",
+  "description": "Prefer ES6 import statements when importing files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dferrazm/eslint-plugin-prefer-import.git"
+  },
+  "author": "Daniel Ferraz <d.ferrazm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "~2.6.0",
+    "mocha": "^3.4.1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "es6"
+  ]
+}
