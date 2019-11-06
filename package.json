@@ -13,7 +13,7 @@
   "author": "Daniel Ferraz <d.ferrazm@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "~2.6.0",
+    "eslint": "~6.6.0",
     "mocha": "^3.4.1"
   },
   "keywords": [
